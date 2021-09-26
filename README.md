@@ -1,0 +1,1 @@
+An example of using [xorstr](https://github.com/JustasMasiulis/xorstr) for obfuscating strings in the final binary
